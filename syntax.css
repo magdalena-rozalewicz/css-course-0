@@ -1,13 +1,12 @@
-#header{
-    position:absolute;
-    top: 0;
-    left: 0;
-}
+/*******************************************
+*komentarz
+*The Box Model
+**********************************************/
 
-#header{
-    font-size: 32px;
-}
-
-p{
-    font-size: 12px;
+.box{
+    margin: 30px;
+    padding:30px;
+    border: 1px solid#000;
+    width: 400px;
+    height: 200px;
 }
