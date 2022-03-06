@@ -1,0 +1,13 @@
+#header{
+    position:absolute;
+    top: 0;
+    left: 0;
+}
+
+#header{
+    font-size: 32px;
+}
+
+p{
+    font-size: 12px;
+}
